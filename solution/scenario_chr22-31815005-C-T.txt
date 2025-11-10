@@ -1,0 +1,35 @@
+## Hypothetical Patient Case: Elias, 12 years old
+
+**Presenting Complaint:** Seizures, developmental delay, and subtle facial features.
+
+**History of Presenting Complaint:** Elias experienced his first seizure at age 7, characterized by sudden loss of consciousness, generalized tonic-clonic movements, and post-ictal confusion lasting approximately 30 minutes. Initially, these seizures were infrequent, occurring every few months, and were attributed to a possible febrile illness given a mild elevation in temperature preceding the first event. However, over the past year, the seizure frequency has increased to approximately once a month, even in the absence of fever. The seizures now occur more frequently at night. His parents also report occasional brief episodes of staring and unresponsiveness lasting only a few seconds, often dismissed as daydreaming, but which they now suspect might be absence seizures. Despite being seizure-free for a period with medication, the dosage was increased due to breakthrough seizures reported by the patient and family.
+
+**Developmental History:** Elias reached early motor milestones slightly later than his peers. He walked independently at 15 months and spoke in short sentences by age three. He started showing signs of intellectual delay from the start of kindergarten. He exhibited difficulties with reading, writing, and mathematics, despite dedicated support at home and in school. He currently attends a special education program and is significantly behind his peers in academic achievement.
+
+**Family History:** Elias's parents are healthy and non-consanguineous. His older sister, age 15, is healthy and excels academically. There is no known history of seizures or developmental delays in the immediate family. However, Elias's maternal grandmother had a history of "fainting spells" in her childhood, which resolved spontaneously in adolescence. This was never formally diagnosed, and no investigations were conducted. His maternal uncle has a history of learning difficulties.
+
+**Physical Examination:**
+
+*   **General:** Elias is a well-nourished, friendly boy who is cooperative but exhibits mild anxiety during the examination.
+*   **Neurological:** Neurological examination reveals normal cranial nerve function, normal muscle tone, and strength. Reflexes are 2+ and symmetrical. Gait is normal. However, he demonstrates subtle cognitive difficulties, including difficulties with attention and concentration during testing of short-term memory and executive function.
+*   **Dysmorphic Features:** Upon close inspection, Elias has subtle facial features, including a slightly broad nasal bridge, mild midface hypoplasia and a high-arched palate. These features are not strikingly unusual but when considered together, suggest the possibility of a genetic syndrome.
+*   **Other Systems:** Normal cardiovascular, respiratory, and abdominal examinations. Skin examination reveals no café-au-lait spots or other neurocutaneous markers.
+
+**Investigations:**
+
+*   **Electroencephalogram (EEG):** The initial EEG showed generalized spike-wave discharges, consistent with a generalized epilepsy syndrome. A follow-up sleep-deprived EEG showed similar abnormalities and focal epileptiform activity over the temporal regions.
+*   **Magnetic Resonance Imaging (MRI) of the Brain:** MRI was initially reported as normal, however, a detailed review revealed subtle cortical thickening in several areas, indicating possible areas of malformation.
+*   **Chromosomal Microarray Analysis:** Initial karyotype and chromosomal microarray analyses were normal.
+*   **Metabolic Screening:** Comprehensive metabolic screening, including amino acids, organic acids, and acylcarnitines, was normal.
+
+**Differential Diagnosis:**
+
+Given the combination of seizures, developmental delay, and subtle dysmorphic features, the differential diagnosis includes various genetic epilepsy syndromes, including those associated with cortical malformations. Genetic testing is recommended.
+
+**Further Investigations:**
+
+Based on the clinical picture, the patient underwent whole exome sequencing to investigate potential causative genetic factors.
+
+**Prognosis:**
+
+The patient's long-term prognosis is uncertain. With optimal seizure control and continued educational support, Elias may achieve some level of independence. However, the underlying cause of his condition may affect his response to therapy and his long-term cognitive development. Further genetic evaluation and counseling are warranted for the family.
