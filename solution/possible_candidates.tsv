@@ -1,0 +1,10 @@
+CHROM  POS       ID           REF        ALT  GEN[*].GT  ANN[0].GENE  ANN[0].EFFECT GNOMAD  CLINVAR
+chr22  17207074  .            T          TTA  0|1,0/0    ADA2         frameshift_variant    Not constrained,0.88    ND
+chr22  19766752  .            CCG        C    0|1,0/0    TBX1         frameshift_variant    Not constrained,0.70    ND
+chr22  19766787  .            GC         *,G  1|2,./.    TBX1         frameshift_variant    Not constrained,0.70    ND
+chr22  19766790  .            GCAGCTGCC  *,G  1|2,./.    TBX1         frameshift_variant    Not constrained,0.70    Benign/Likely_begnin
+chr22  27798944  rs771246945  G          GC   0/1,0|0    MN1          frameshift_variant    Constraint_limit,0.48   ND
+chr22  28725272  .            A          AGG  0/1,0/0    CHEK2        frameshift_variant    Not constrained,1.4 ND
+chr22  28725275  .            TTC        T    0/1,0/0    CHEK2        frameshift_variant    Not constrained,1.4 ND
+chr22  43214098  .            TC         T    0/1,0/0    SCUBE1       frameshift_variant    Not constrained,0.65    ND
+chr22  50524255  rs74315510   G          A    1/1,0/0    SCO2         stop_gained   Not constrained,1.76    Pathogenic
